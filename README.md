@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @yunjaekim00
-- 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning Typescript and React
+## About myself
 
-
-<!---
-yunjaekim00/yunjaekim00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Yun Jae Kim
+- 👀 I’m a full stack developer at Plateer Inc. in Korea
+- 🌱 My interests are DevOps (using AWS cloud) and also Frontend programming (using React and Vue frameworks)
+- Currently studying Micro Frontends and CSS modules
